@@ -5,4 +5,4 @@ Hola!! Te indico la tarea:
 
 * Envía un correo electrónico al/a la otro/a integrante del grupo para que haga esta tarea e indícamelo cuando esté hecho. 
 
-<div style="text-align: center"><img src="https://loremflickr.com/320/240/github" alt="Imagen de GitHub"/></div>
+<div style="text-align: center"><img src="https://loremflickr.com/640/480/github" alt="Imagen de GitHub"/></div>
