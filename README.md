@@ -5,4 +5,4 @@ Hola!! Te indico la tarea:
 
 * Envía un correo electrónico al/a la otro/a integrante del grupo para que haga esta tarea e indícamelo cuando esté hecho. 
 
-<img src="https://lorempixel.com/320/240/cat">
+<img src="https://loremflickr.com/320/240/cat">
